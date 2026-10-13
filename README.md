@@ -28,3 +28,11 @@ Observed behaviour:
 - Note block waves can reach the Allay without triggering a response
 
 Current investigation suggests the issue may be related to the note block memory refresh logic.
+
+
+## Community
+
+Join the Minecraft Project Hub Discord:
+
+https://discord.gg/YeaFfqgKV
+
